@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/harshiniachuu6-4818s-projects/v0-health-tracker-app](https://vercel.com/harshiniachuu6-4818s-projects/v0-health-tracker-app)**
+https://v0.app/chat/arogya-mitra-pNMffkPGsBN
 
 ## Build your app
 
